@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.complete{
+    text-decoration: line-through;
+    color: red;
+}
+
+.button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0 auto;
+}
+p{
+    cursor: pointer;
+}
+.title{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
